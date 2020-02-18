@@ -1,3 +1,4 @@
+[![Build Status](https://elca-zh-sp.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/pianoman84.mslearn-tailspin-spacegame-web?branchName=master)](https://elca-zh-sp.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
